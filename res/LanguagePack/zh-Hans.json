@@ -1,0 +1,8 @@
+{
+  "common.main.name": "集市",
+  "command.main.description": "打开集市。",
+  "ui.menu.main.title": "集市",
+  "ui.menu.main.body": "",
+  "ui.menu.main.button.item": "出售\n{MyItemCount}/{TotalItemCount}",
+  "ui.menu.main.button.offer": "报价\n{MyOfferCount}/{TotalOfferCount}"
+}
